@@ -1,9 +1,6 @@
 # LiterAlura: Catálogo de Libros 📚
-Desarrollo de un Catálogo de Libros que ofrece una interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscan a través de la API https://gutendex.com/.
-# 🌟 literalura_challenge 🌟
 
-<img src="https://github.com/user-attachments/assets/8afc010a-6e67-44ed-af04-d82a27d23970" alt="Portada del Proyecto" style="width:100%; height:10rem;">
-
+<img src="https://github.com/user-attachments/assets/b1d74cdd-6622-4941-94d4-898868fb09e8" alt="Portada del Proyecto" style="width:100%; height:10rem;">
 
 Bienvenido a tu **LiterAlura: Catálogo de Libros 📚**, una aplicación de consola elegante y funcional que ofrece una interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscan a través de la API https://gutendex.com/.
 
